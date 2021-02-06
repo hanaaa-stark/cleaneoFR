@@ -1,36 +1,85 @@
-## Welcome to GitHub Pages
+# Ménage
 
-You can use the [editor on GitHub](https://github.com/hanaaa-stark/cleaneoFR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Ménage simple
+* CHAMBRE, SALON ET ESPACES COMMUNS
+  * Balayer et nettoyer les planchers
+  * Tapis et tapis sous vide
+  * Saupoudrage
+  * Miroirs propres
+  * Sortir les poubelles
+  * Nettoyage du poêle
+  * Vider et nettoyer les poubelles
+  * Essuyez les poignées de porte et les interrupteurs d'éclairage
+  * Dépoussiérer les fenêtres, les appuis et les rebords
+  * Faire les lits
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* CUISINE
+  * Nettoyage du poêle
+  * Essuyez les comptoirs
+  * Essuyez les poignées de porte et les interrupteurs d'éclairage
 
-### Markdown
+* SALLE DE BAINS
+  * Toilettes propres
+  * Miroirs propres
+  * Baignoires / Douches
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Deep Clean
+* BEDROOM, LIVING ROOM & COMMON AREAS
+  * Sweep and mop floors
+  * Vacuum carpet and rugs
+  * Dusting
+  * Clean mirrors
+  * Take out the trash
+  * Stove cleaning
+  * Empty and clean trash cans
+  * Wipe door handles & light switches
+  * Dust windows, sills, and ledges
 
-```markdown
-Syntax highlighted code block
+* KITCHEN
+  * Stove cleaning
+  * Wipe countertops
+  * Wipe door handles & light switches
+  * Wipe Baseboards
+  * Extra attention to outside of kitchen appliances
+  * Cleaning Dishes 
 
-# Header 1
-## Header 2
-### Header 3
+* BATHROOM
+  * Clean toilets
+  * Clean mirrors
+  * Bathtubs/Showers
+  * Extra attention to shower and bathroom
+  * Move in/out Clean
 
-- Bulleted
-- List
+* BEDROOM, LIVING ROOM & COMMON AREAS
+  * Sweep and mop floors
+  * Vacuum carpet and rugs
+  * Dusting
+  * Clean mirrors
+  * Take out the trash
+  * Stove cleaning
+  * Empty and clean trash cans
+  * Wipe door handles & light switches
+  * Dust windows, sills, and ledges
+  * Making Beds (Airbnb Cleaning Only)
 
-1. Numbered
-2. List
+* KITCHEN
+  * Stove cleaning
+  * Wipe countertops
+  * Wipe door handles & light switches
+  * Wipe Baseboards
+  * Extra attention to outside of kitchen appliances
+  * Interior cabinet cleaning
+  * Inside fridge
+  * Inside oven
 
-**Bold** and _Italic_ and `Code` text
+* BATHROOM
+  * Clean toilets
+  * Clean mirrors
+  * Baththubs/Showers
+  * Extra attention to shower and bathroom
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanaaa-stark/cleaneoFR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
